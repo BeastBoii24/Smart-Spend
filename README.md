@@ -8,7 +8,11 @@
 
 **Live Demo:**  
 
----
+<img width="2548" height="1356" alt="Screenshot 2025-12-30 234941" src="https://github.com/user-attachments/assets/2a2b142b-1bcf-4c6f-913e-044cab9799e6" />
+<img width="2553" height="1352" alt="Screenshot 2025-12-30 234953" src="https://github.com/user-attachments/assets/f2713e58-c0f2-42bd-bccd-ee6d4140b661" />
+<img width="2541" height="1349" alt="Screenshot 2025-12-30 235012" src="https://github.com/user-attachments/assets/abe652af-991c-43a2-9cbb-6c0e13586d6b" />
+
+
 
 ## 🛠️ Tech Stack
 
